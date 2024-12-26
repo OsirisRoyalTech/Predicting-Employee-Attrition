@@ -1,0 +1,5 @@
+Based on the classification reports, we can compare the models on various metrics:
+•	Accuracy: The overall correctness of the model.
+•	Precision: How many of the predicted positive instances are actually positive.
+•	Recall: How many of the actual positive instances were correctly predicted.
+•	F1-Score: A balanced measure between precision and recall.
