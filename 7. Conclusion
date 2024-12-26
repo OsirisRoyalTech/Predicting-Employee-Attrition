@@ -1,0 +1,5 @@
+In this project, we predicted employee attrition using machine learning. The steps involved:
+•	Data collection and preprocessing.
+•	Exploratory data analysis (EDA) to understand the relationships.
+•	Model building using Logistic Regression, Random Forest, and XGBoost.
+•	Model evaluation using classification metrics like accuracy, precision, recall, and F1-score.
